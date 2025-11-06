@@ -9,14 +9,7 @@
 
 <h1>👋 Hi, I'm <strong>MakVieSAinte</strong></h1>
 
-<p>
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=3B82F6&center=false&vCenter=true&multiline=true&repeat=true&width=420&height=80&lines=Full+Stack+Developer+💻;React+|+Next.js+|+Node.js" 
-    alt="Typing SVG"
-  />
-</p>
-
-<p style="font-size:16px; line-height:1.6; max-width:550px;">
+<p style="font-size:22px; line-height:1.6; max-width:550px;">
   Passionate about building elegant, high-performance web experiences that blend creativity, 
   modern design, and technical precision.  
   Always eager to learn, innovate, and turn ideas into impactful products. 🚀
