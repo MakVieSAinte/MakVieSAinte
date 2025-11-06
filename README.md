@@ -9,7 +9,7 @@
 
 <h1>👋 Hi, I'm <strong>MakVieSAinte</strong></h1>
 
-<p style="font-size:22px; line-height:1.6; max-width:550px;">
+<p style="font-size:52px !important; line-height:1.6; max-width:550px;">
   Passionate about building elegant, high-performance web experiences that blend creativity, 
   modern design, and technical precision.  
   Always eager to learn, innovate, and turn ideas into impactful products. 🚀
