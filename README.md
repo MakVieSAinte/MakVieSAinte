@@ -12,3 +12,12 @@ I am a developer passionate about creating accessible and perfectly optimized us
 </p>
 
 <br>
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakVieSAinte&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F97316&currStreakLabel=3B82F6&sideLabels=c9d1d9&dates=8B949E" alt="GitHub Streak" />
+</p>
+
+<br>
+<br>
