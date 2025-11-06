@@ -11,83 +11,81 @@ Turning an idea into a functional digital product is what drives me. Over the ye
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="TypeScript" />
       <br>Javascript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="TypeScript" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" />
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue.js" />
       <br>Vue.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" />
       <br>Express.js
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="postgreSQL" />
+      <img src="https://skillicons.dev/icons?i=postgresql" width="45" height="45" alt="postgreSQL" />
       <br>postgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="TailwindCSS" />
       <br>TailwindCSS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
       <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+      <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
       <br>Supabase
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" />
+      <img src="https://skillicons.dev/icons?i=cypress" width="45" height="45" alt="Cypress" />
       <br>Cypress
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=gherkin" width="48" height="48" alt="gherkin" />
+      <img src="https://skillicons.dev/icons?i=gherkin" width="45" height="45" alt="gherkin" />
       <br>Gherkin
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
       <br>Postman
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
       <br>Docker
     </td>
   </tr>
 </table>
-
-
 <br>
 
 ## 📊 GitHub Analytics
