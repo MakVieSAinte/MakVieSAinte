@@ -1,5 +1,5 @@
 
-##  👋 Hey there! I'm MakVieSAinte
+##  👋 Hey there ! I'm MakVieSAinte
 
 I am a developer passionate about creating accessible and perfectly optimized user interfaces, combining refined design with robust front-end and back-end engineering. I strive to build experiences that are aesthetic, intuitive, and high-performing.
 
