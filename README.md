@@ -3,6 +3,8 @@
 ##  👋 Hey there! I'm MakVieSAinte
 
 I am a developer passionate about creating accessible and perfectly optimized user interfaces, combining refined design with robust front-end and back-end engineering. I strive to build experiences that are aesthetic, intuitive, and high-performing.
+
+Turning an idea into a functional digital product is what drives me. Over the years, I’ve completed many projects that showcase my journey—from inspiration to execution—always guided by user experience. 
 <br><br>
 
 ## 💻 Favorite Technologies
@@ -10,7 +12,7 @@ I am a developer passionate about creating accessible and perfectly optimized us
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,html,css,vue,react,nextjs,nodejs,express,mongodb,tailwind,figma,supabase,cypress,postman,docker" width="650" />
 </p>
-<br><br>
+<br>
 
 ## 📊 GitHub Analytics
 
