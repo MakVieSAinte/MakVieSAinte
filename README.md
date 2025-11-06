@@ -10,8 +10,7 @@ I am a developer passionate about creating accessible and perfectly optimized us
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,html,css,vue,react,nextjs,nodejs,express,mongodb,tailwind,figma,supabase,cypress,postman,docker" width="650" />
 </p>
-
-<br>
+<br><br>
 
 ## 📊 GitHub Analytics
 
