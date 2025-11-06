@@ -1,11 +1,11 @@
 <!-- === HEADER SECTION === -->
 <div align="center">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
 <tr>
 
 <!-- LEFT: Text & Intro -->
-<td width="600" valign="top" align="left">
+<td width="600" valign="top" align="left" style="border:none;">
 
 <h1>👋 Hi, I'm <strong>MakVieSAinte</strong></h1>
 
@@ -25,11 +25,11 @@
 </td>
 
 <!-- RIGHT: Social Links -->
-<td width="250" valign="top" align="center">
+<td width="250" valign="top" align="center" style="border:none;">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="120" style="border:none;">
       <a href="https://myportfoliopro.vercel.app/" target="_blank">
         <img src="https://skillicons.dev/icons?i=vercel" width="42" height="42" alt="Portfolio" /><br>
         <strong>Portfolio</strong>
@@ -37,7 +37,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="120" style="border:none;">
       <a href="https://linkedin.com/in/makaveli-sainte" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn" /><br>
         <strong>LinkedIn</strong>
@@ -45,7 +45,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="120" style="border:none;">
       <a href="https://twitter.com/MakVieSAinte" target="_blank">
         <img src="https://skillicons.dev/icons?i=twitter" width="42" height="42" alt="Twitter" /><br>
         <strong>X</strong>
