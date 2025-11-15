@@ -6,9 +6,13 @@ Je suis un développeur passionné par la création d'interfaces utilisateur acc
 Transformer une idée en produit digital fonctionnel est ma motivation. Au fil des années, j’ai réalisé de nombreux projets illustrant mon parcours, de l’inspiration à l’exécution, toujours guidés par l’expérience utilisateur.    
 <br>
   <!-- Committers Top -->
-  <a href="https://user-badge.committers.top/congo_brazzaville_private/MakVieSAinte" target="_blank" style="border-radius: 12px; overflow: hidden; display: inline-block; transition: transform 0.2s;">
-    <img src="https://user-badge.committers.top/congo_brazzaville_private/MakVieSAinte.svg" alt="Committers Top" style="display: block;"/>
-  </a>
+  <a href="https://user-badge.committers.top/congo_brazzaville_private/MakVieSAinte?type=contributions" 
+   target="_blank" 
+   style="border-radius: 12px; overflow: hidden; display: inline-block; transition: transform 0.2s;">
+  <img src="https://user-badge.committers.top/congo_brazzaville_private/MakVieSAinte.svg?type=contributions" 
+       alt="Committers Top - Contributions" 
+       style="display: block;"/>
+</a>
   <br>
   
 ## 🛠️ Les technologies qui donnent vie à mes projets
