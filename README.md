@@ -1,12 +1,17 @@
 
-##  👋 Hello ! Je suis MakVieSAinte
+## 👋 Hello ! Je suis [Mak VieSAinte](https://makviesainte.dev/)
 
 Je suis un développeur passionné par la création d'interfaces utilisateur accessibles et parfaitement optimisées, alliant design soigné et ingénierie front-end et backend robuste. je m’efforce de créer des expériences à la fois esthétiques, intuitives et performantes.
 
-Transformer une idée en produit digital fonctionnel est ma motivation. Au fil des années, j’ai réalisé de nombreux projets illustrant mon parcours, de l’inspiration à l’exécution, toujours guidés par l’expérience utilisateur.
-<br><br>
-
-## 🛠️ Technologies I Use
+Transformer une idée en produit digital fonctionnel est ma motivation. Au fil des années, j’ai réalisé de nombreux projets illustrant mon parcours, de l’inspiration à l’exécution, toujours guidés par l’expérience utilisateur.    
+<br>
+  <!-- Committers Top -->
+  <a href="https://user-badge.committers.top/congo_brazzaville_private/MakVieSAinte" target="_blank" style="border-radius: 12px; overflow: hidden; display: inline-block; transition: transform 0.2s;">
+    <img src="https://user-badge.committers.top/congo_brazzaville_private/MakVieSAinte.svg" alt="Committers Top" style="display: block;"/>
+  </a>
+  <br>
+  
+## 🛠️ Les technologies qui donnent vie à mes projets
 
 <table>
   <tr>
@@ -88,10 +93,26 @@ Transformer une idée en produit digital fonctionnel est ma motivation. Au fil d
 </table>
 <br>
 
-## 📊 GitHub Analytics
+## 📊 Analyse de mon activité GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MakVieSAinte&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F97316&currStreakLabel=3B82F6&sideLabels=c9d1d9&dates=8B949E" alt="GitHub Streak" />
-</p>
+ <div style="display: inline; gap: 10px;">
 
+  <!-- Stats globales -->
+  <img
+    height="190em"
+    align="left"
+    src="https://github-readme-stats.vercel.app/api?username=MakVieSAinte&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+  />
+
+  <!-- Stats languages -->
+  <img
+    height="190em"
+    align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakVieSAinte&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff"
+  />
+
+</div>
+
+
+  
 <br>
