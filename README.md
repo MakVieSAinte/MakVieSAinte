@@ -1,9 +1,9 @@
 
-##  👋 Hey there ! I'm MakVieSAinte
+##  👋 Hello ! Je suis MakVieSAinte
 
 Je suis un développeur passionné par la création d'interfaces utilisateur accessibles et parfaitement optimisées, alliant design soigné et ingénierie front-end et backend robuste. je m’efforce de créer des expériences à la fois esthétiques, intuitives et performantes.
 
-Transformer une idée en produit digital fonctionnel est ma motivation. Au fil des années, j’ai réalisé de nombreux projets illustrant mon parcours, de l’inspiration à l’exécution, toujours guidés par l’expérience utilisateur. Je publie ici mes découvertes, mes tests et mes réflexion
+Transformer une idée en produit digital fonctionnel est ma motivation. Au fil des années, j’ai réalisé de nombreux projets illustrant mon parcours, de l’inspiration à l’exécution, toujours guidés par l’expérience utilisateur.
 <br><br>
 
 ## 🛠️ Technologies I Use
