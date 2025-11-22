@@ -5,10 +5,10 @@ Je suis un développeur passionné par la création d'interfaces utilisateur acc
 
 Transformer une idée en produit digital fonctionnel est ma motivation. Au fil des années, j’ai réalisé de nombreux projets illustrant mon parcours, de l’inspiration à l’exécution, toujours guidés par l’expérience utilisateur.    
 <br>
-<!-- Committers Top and Wakatime -->
-[![committers.top badge](https://user-badge.committers.top/congo_brazzaville_public/MakVieSAinte.svg)](https://user-badge.committers.top/congo_brazzaville/MakVieSAinte) [![wakatime](https://wakatime.com/badge/user/294cec28-3784-4310-880b-d7be5e95f5b8.svg)](https://wakatime.com/@294cec28-3784-4310-880b-d7be5e95f5b8)
 
-  <br>
+<!-- Committers Top and Wakatime -->
+[![committers.top badge](https://user-badge.committers.top/congo_brazzaville_public/MakVieSAinte.svg)](https://user-badge.committers.top/congo_brazzaville/MakVieSAinte) [![wakatime](https://wakatime.com/badge/user/b2ac3fad-13f4-43d8-8744-9e52d15163fe.svg)](https://wakatime.com/@b2ac3fad-13f4-43d8-8744-9e52d15163fe)
+<br>
   
 ## 🛠️ Les technologies qui donnent vie à mes projets
 
