@@ -9,7 +9,7 @@ Transformer une idée en produit digital fonctionnel est ma motivation. Au fil d
   <a href="https://user-badge.committers.top/congo_brazzaville_private/MakVieSAinte?type=contributions" 
    target="_blank" 
    style="border-radius: 12px; overflow: hidden; display: inline-block; transition: transform 0.2s;">
-  <img src="https://user-badge.committers.top/congo_brazzaville_private/MakVieSAinte.svg?type=contributions" 
+  <img src="https://user-badge.committers.top/congo_brazzaville_public/MakVieSAinte.svg?type=contributions" 
        alt="Committers Top - Contributions" 
        style="display: block;"/>
 </a>
