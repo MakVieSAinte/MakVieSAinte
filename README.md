@@ -96,23 +96,20 @@ Transformer une idée en produit digital fonctionnel est ma motivation. Au fil d
 
  <div style="display: inline; gap: 10px;">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MakVieSAinte&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakVieSAinte&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" height="180"/>
-</p>
 
   <!-- Stats globales -->
   <img
     height="190em"
     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=MakVieSAinte&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MakVieSAinte&theme=github_dark"
   />
 
   <!-- Stats languages -->
   <img
+    width="300em"
     height="190em"
     align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakVieSAinte&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MakVieSAinte&theme=github_dark"
   />
 
 </div>
