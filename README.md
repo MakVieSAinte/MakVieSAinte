@@ -5,9 +5,12 @@ Je suis un développeur passionné par la création d'interfaces utilisateur acc
 
 Transformer une idée en produit digital fonctionnel est ma motivation. Au fil des années, j’ai réalisé de nombreux projets illustrant mon parcours, de l’inspiration à l’exécution, toujours guidés par l’expérience utilisateur.    
 <br>
+🏆 Lauréat OSIANE 2025 – Challenge Start-up « Jeunesse Innove », en tant que membre de l’équipe de développement du projet Kokamba, un ERP 100 % Made in Africa, dédié à la gestion et à la transformation digitale des entreprises locales.
+<br>
 
 <!-- Committers Top and Wakatime -->
-[![committers.top badge](https://user-badge.committers.top/congo_brazzaville_public/MakVieSAinte.svg)](https://user-badge.committers.top/congo_brazzaville/MakVieSAinte) [![wakatime](https://wakatime.com/badge/user/b2ac3fad-13f4-43d8-8744-9e52d15163fe.svg)](https://wakatime.com/@b2ac3fad-13f4-43d8-8744-9e52d15163fe)
+[![committers.top badge](https://user-badge.committers.top/congo_brazzaville_public/MakVieSAinte.svg)](https://user-badge.committers.top/congo_brazzaville/MakVieSAinte) [![wakatime](https://wakatime.com/badge/user/b2ac3fad-13f4-43d8-8744-9e52d15163fe.svg)](https://wakatime.com/@b2ac3fad-13f4-43d8-8744-9e52d15163fe) ![Rank](https://img.shields.io/badge/Dev-Rank%20A+-brightgreen) ![Hire](https://img.shields.io/badge/Available%20for-Hire-success) 
+
 <br>
   
 ## 🛠️ Les technologies qui donnent vie à mes projets
