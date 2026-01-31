@@ -5,7 +5,7 @@ Je suis un développeur passionné par la création d'interfaces utilisateur acc
 
 Transformer une idée en produit digital fonctionnel est ma motivation. Au fil des années, j’ai réalisé de nombreux projets illustrant mon parcours, de l’inspiration à l’exécution, toujours guidés par l’expérience utilisateur.    
 <br>
-🏆 Lauréat OSIANE 2025 – Challenge Start-up « Jeunesse Innove », en tant que membre de l’équipe de développement du projet Kokamba, un ERP 100 % Made in Africa, dédié à la gestion et à la transformation digitale des entreprises locales.
+🏆 Lauréat [OSIANE 2025](https://www.osiane.cg/) – Challenge Start-up « Jeunesse Innove », en tant que membre de l’équipe de développement du projet Kokamba, un ERP 100 % Made in Africa, dédié à la gestion et à la transformation digitale des entreprises locales.
 <br>
 
 <!-- Committers Top and Wakatime -->
