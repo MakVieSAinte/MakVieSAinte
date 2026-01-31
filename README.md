@@ -109,7 +109,6 @@ Transformer une idée en produit digital fonctionnel est ma motivation. Au fil d
   <img
     width="308em"
     height="190em"
-    align="right"
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MakVieSAinte&theme=github_dark"
   />
 
