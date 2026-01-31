@@ -95,25 +95,20 @@ Transformer une idée en produit digital fonctionnel est ma motivation. Au fil d
 ## 📊 Analyse de mon activité GitHub
 
  <div style="display: inline; gap: 10px;">
-
-
+  
   <!-- Stats globales -->
   <img
-    width="628em"
-    height="190em"
+    width="600em"
     align="left"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MakVieSAinte&theme=github_dark"
   />
 
   <!-- Stats languages -->
   <img
-    width="308em"
-    height="190em"
+    width="290em"
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MakVieSAinte&theme=github_dark"
   />
-
+  
 </div>
-
-
   
 <br>
