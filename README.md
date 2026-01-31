@@ -110,5 +110,3 @@ Transformer une idée en produit digital fonctionnel est ma motivation. Au fil d
   />
   
 </div>
-  
-<br>
