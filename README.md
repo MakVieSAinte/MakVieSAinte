@@ -98,14 +98,14 @@ Transformer une idée en produit digital fonctionnel est ma motivation. Au fil d
   
   <!-- Stats globales -->
   <img
-    width="600em"
+    width="550em"
     align="left"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MakVieSAinte&theme=github_dark"
   />
 
   <!-- Stats languages -->
   <img
-    width="290em"
+    width="265em"
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MakVieSAinte&theme=github_dark"
   />
   
