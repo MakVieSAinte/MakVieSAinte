@@ -96,6 +96,8 @@ Transformer une idée en produit digital fonctionnel est ma motivation. Au fil d
 
  <div style="display: inline; gap: 10px;">
 
+ ![Analyse GitHub](https://github-readme-stats.vercel.app/api?username=MakVieSAinte&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+
   <!-- Stats globales -->
   <img
     height="190em"
