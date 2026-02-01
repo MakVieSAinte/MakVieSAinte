@@ -9,7 +9,7 @@ Transformer une idée en produit digital fonctionnel est ma motivation. Au fil d
 <br>
 
 <!-- Committers Top and Wakatime -->
-[![committers.top badge](https://user-badge.committers.top/congo_brazzaville_public/MakVieSAinte.svg)](https://user-badge.committers.top/congo_brazzaville/MakVieSAinte) [![wakatime](https://wakatime.com/badge/user/b2ac3fad-13f4-43d8-8744-9e52d15163fe.svg)](https://wakatime.com/@b2ac3fad-13f4-43d8-8744-9e52d15163fe) ![Rank](https://img.shields.io/badge/Dev-Rank%20A+-brightgreen) ![Hire](https://img.shields.io/badge/Available%20for-Hire-success) 
+[![committers.top badge](https://user-badge.committers.top/congo_brazzaville_public/MakVieSAinte.svg)](https://user-badge.committers.top/congo_brazzaville/MakVieSAinte) [![wakatime](https://wakatime.com/badge/user/b2ac3fad-13f4-43d8-8744-9e52d15163fe.svg)](https://wakatime.com/@b2ac3fad-13f4-43d8-8744-9e52d15163fe) ![Hire](https://img.shields.io/badge/Available%20for-Hire-success) 
 
 <br>
   
